@@ -1,8 +1,35 @@
 
-                  ///////      1       \\\\\\\
+                  ///////      Python       \\\\\\\
 
 You can create a tools by your self its eazy not need any hard things 
 by using AI by using  <<<  Python  >>> Language so how to create tools
 
 first . by using best AI application its name Cursor AI so that
 create for you any file any code any things that you need it 
+
+if you need Python for tools just use #import request that it 
+using for AI
+
+
+
+                  ///////      Dort       \\\\\\\
+
+so to find the files or subdomains or hidden things in website you can use
+
+
+1. this line under that show you any subdomain or servers in the website
+use this line in ant search browser
+
+        site:*.example.com   
+
+2. for finding files like php or any extentions you can use this line
+in any browser search
+
+        site:*.example.com ext:php  
+        site:*.example.com ext:json  
+        site:*.example.com ext:js  
+
+
+
+
+
