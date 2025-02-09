@@ -1,0 +1,32 @@
+so we can show that subdomain its best things to show bugs we have
+website and tools for them but i used best tools or website 
+that primary to use and give same secondary to use
+
+                  ///////      websites       \\\\\\\
+
+just put you domain
+
+        https://securitytrails.com/
+
+        https://subdomainfinder.c99.nl/index.php
+
+        https://pentest-tools.com/information-gathering/find-subdomains-of-domain
+
+        https://hackertarget.com/find-dns-host-records/
+
+        https://cloud.projectdiscovery.io/
+
+
+                    ///////      tools       \\\\\\\
+
+
+ 1. i show you best tool in under but it need more time to find the subdomain or things
+ download fuff in any website or use kali linux for it 
+
+for subdomain
+    ffuf -w big-text.txt -u https://FUZZ.example.com/ -ac -mc all
+
+for end files
+    ffuf -w big-text.txt -u https://example.com/FUZZ -ac -mc all
+
+ Warning !!! you can download big-text.txt i put it in my github                  
