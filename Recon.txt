@@ -31,5 +31,21 @@ in any browser search
 
 
 
+                  ///////      Deep Search       \\\\\\\
 
+so if you need to going inside hidden files best things is use
+github so in search you can use this line under that give you any 
+info about the password the user the admins all things you need 
+just use line and go codes in the left sidebar
 
+1. for user and password
+
+        example.com "username" "password"
+
+2. for admin or key or cpanel
+
+        example.com "admin" "key" "cpanel"
+
+3. for remote
+
+        example.com "smtp" ".ssh"
